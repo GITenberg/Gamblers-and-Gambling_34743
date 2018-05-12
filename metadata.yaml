@@ -1,0 +1,28 @@
+_repo: Gamblers-and-Gambling_34743
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34743-h/images/cover.png
+creator:
+  author:
+    agent_name: Beecher, Henry Ward
+    birthdate: 1813
+    deathdate: 1887
+    gutenberg_agent_id: '31487'
+    url: http://www.gutenberg.org/2009/agents/31487
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Ward_Beecher
+description: ''
+gutenberg_issued: '2010-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34743'
+  lccn: '10023621'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gambling'
+- !lcc 'HV'
+title: Gamblers and Gambling
+url: http://www.gutenberg.org/ebooks/34743
